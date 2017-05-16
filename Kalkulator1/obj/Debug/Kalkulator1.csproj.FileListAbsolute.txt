@@ -1,0 +1,9 @@
+c:\users\lipa\documents\visual studio 2013\Projects\Kalkulator1\Kalkulator1\bin\Debug\Kalkulator1.exe.config
+c:\users\lipa\documents\visual studio 2013\Projects\Kalkulator1\Kalkulator1\bin\Debug\Kalkulator1.exe
+c:\users\lipa\documents\visual studio 2013\Projects\Kalkulator1\Kalkulator1\bin\Debug\Kalkulator1.pdb
+c:\users\lipa\documents\visual studio 2013\Projects\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.Form1.resources
+c:\users\lipa\documents\visual studio 2013\Projects\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.Properties.Resources.resources
+c:\users\lipa\documents\visual studio 2013\Projects\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.csproj.GenerateResource.Cache
+c:\users\lipa\documents\visual studio 2013\Projects\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.exe
+c:\users\lipa\documents\visual studio 2013\Projects\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.pdb
+c:\users\lipa\documents\visual studio 2013\Projects\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.csprojResolveAssemblyReference.cache
